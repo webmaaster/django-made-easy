@@ -24,3 +24,5 @@
 ## Activating vEnv: source myEnv/bin/activate
 
 ## Deactivating myEnv: deactivate
+
+## Installing Django: pip install django
